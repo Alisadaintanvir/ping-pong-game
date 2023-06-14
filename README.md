@@ -24,16 +24,17 @@ Player on the left: Use the "W" key to move up and the "S" key to move down.
 Player on the right: Use the up arrow key to move up and the down arrow key to move down.
 Enjoy playing the Ping Pong game!
 
-Requirements
-Python 3.x
-Turtle module (comes pre-installed with Python)
-Files and Directory Structure
-main.py: The main script that initializes the game and handles the game loop.
-paddle.py: Contains the Paddle class definition for the paddles used in the game.
-ball.py: Contains the Ball class definition for the game ball.
-scoreboard.py: Contains the Scoreboard class definition to keep track of the players' scores.
-License
+## Requirements
+- Python 3.x
+- Turtle module (comes pre-installed with Python)
+- Files and Directory Structure
+- `main.py`: The main script that initializes the game and handles the game loop.
+- `paddle.py`: Contains the Paddle class definition for the paddles used in the game.
+- `ball.py`: Contains the Ball class definition for the game ball.
+- `scoreboard.py`: Contains the Scoreboard class definition to keep track of the players' scores.
+
+## License
 This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 This game was created as a learning project following the instructions provided in the "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course on Udemy.
